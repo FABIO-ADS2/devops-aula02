@@ -1,4 +1,5 @@
 # devops-aula02
 # Antony Hopkins
-# Jeffrey Dean Morgan
+# Christoph Waltz
 # Andy Serkis
+# Brad Pitt
